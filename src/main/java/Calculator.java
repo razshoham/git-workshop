@@ -7,3 +7,5 @@ public class Calculator{
  }
 }
 gg - best
+1
+2
