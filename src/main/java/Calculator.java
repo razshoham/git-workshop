@@ -4,8 +4,8 @@ public class Calculator{
   }
   public int mul(int a, int b){
    return a*b;
- }
+  }
+  public int subl(int a, int b){
+   return a-b;
+  }
 }
-gg - best
-1
-2
