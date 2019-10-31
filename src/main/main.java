@@ -8,10 +8,6 @@ public class Main {
    }
 }
 
-public static test(){
-
-}
-
-public static test2(){
-
+public static div(a,b){
+    return a/b;
 }
